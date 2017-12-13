@@ -5,7 +5,7 @@ www.switchfully.com
 ## Spring Boot Stock Exchange
 
 - Part of the Build and Dependency Management module.
-- Solution for extra_codelab01 of the _09_spring package.
+- Solution for codelab05 of the _09_spring package.
 
 ## Usage
 
