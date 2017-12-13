@@ -8,6 +8,9 @@ import org.springframework.web.bind.annotation.*;
 import javax.inject.Inject;
 import javax.inject.Named;
 
+/**
+ * @Named and @ResponseBody could be replaced by @RestController (which is spring specific)
+ */
 @Named
 @ResponseBody
 @RequestMapping("/stocks")
